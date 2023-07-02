@@ -1,7 +1,13 @@
-const request = require("request");
+const fs = require('fs'); 
 const cheerio = require("cheerio");
-const fs = require("fs");
-const { randomBytes } = require("crypto");
+const { type } = require('os');
+
+urllist = ["https://tw.indeed.com/jobs?q=rpa&start=10&vjk=0a701644baf05445",
+"https://tw.indeed.com/jobs?q=rpa&start=20&vjk=0a701644baf05445",
+"https://tw.indeed.com/jobs?q=rpa&start=30&vjk=0a701644baf05445",
+"https://tw.indeed.com/jobs?q=rpa&start=40&vjk=0a701644baf05445",
+"https://tw.indeed.com/jobs?q=rpa&start=50&vjk=0a701644baf05445 ",
+"https://tw.indeed.com/jobs?q=rpa&start=60&vjk=0a701644baf05445"]
 
 dataMap = {}
 const main = function () {
@@ -18,22 +24,24 @@ const main = function () {
       fs.writeFileSync("./rpaScrap.json",JSON.stringify(dataMap,null,4))
     }})}
 
-    main()
+
+rap = fs.readFileSync("./ind.html")
+
 
 function jobPaser(jobData){
-  console.log("Start Cheerio")
+  console.log("Cheerio Engaged")
   var $ = cheerio.load(jobData)
-  $(".card-title").each((i,e)=>{
+  $(".jcs-JobTitle").each((i,e)=>{
     if (dataMap[i]== undefined){
       dataMap[i] = []
     }
     dataMap[i].push($(e).text())})
-  $(".job_item_company").each((i,e)=>{
+  $(".companyName").each((i,e)=>{
     if (dataMap[i]== undefined){
       dataMap[i] = []
     }
     dataMap[i].push($(e).text())})
-  $(".job_item_detail_salary").each((i,e)=>{
+  $(".").each((i,e)=>{
     if (dataMap[i]== undefined){
       dataMap[i] = []
     }
@@ -44,8 +52,14 @@ function jobPaser(jobData){
     }
     dataMap[i].push($(e).text())})
 }
-jobPaser(rap)
-fs.writeFileSync("./rpaScrap.json",JSON.stringify(dataMap,null,4))
 
 
+var $ = cheerio.load(rap)
+count  = 0
+$(".attribute_snippet").each((i,e)=>{
+  console.log($(e).text())
+  count ++ 
+  console.log(count)
+  })
 
+//fs.writeFileSync("./inNeedScrap.json",JSON.stringify(dataMap,null,4))
