@@ -1,47 +1,487 @@
-{
-    "0": [
-        "Power Automate 設計 (RPA)"
-    ],
-    "1": [
-        "Power Automate 設計 (RPA)"
-    ],
-    "2": [
-        "HR Learning and Development (IT)"
-    ],
-    "3": [
-        "People Services Program Lead"
-    ],
-    "4": [
-        "人力資源自動化整合專案一年期約聘助理- 身心障礙人才招募"
-    ],
-    "5": [
-        "Power Automate 設計 (RPA)"
-    ],
-    "6": [
-        "Services Architect"
-    ],
-    "7": [
-        "Power Automate 設計 (RPA)"
-    ],
-    "8": [
-        "Power Automate 設計 (RPA)"
-    ],
-    "9": [
-        "Power Automate 設計 (RPA)"
-    ],
-    "10": [
-        "Power Automate 設計 (RPA)"
-    ],
-    "11": [
-        "Power Automate 設計 (RPA)"
-    ],
-    "12": [
-        "Back Office Manager"
-    ],
-    "13": [
-        "Power Automate 設計 (RPA)"
-    ],
-    "14": [
-        "Power Automate 設計 (RPA)"
-    ]
-}
+[
+    {
+        "jobTitle": "機器人流程自動化(RPA)程式開發人員",
+        "salary": "月薪40,000元全職",
+        "company": "國泰金控"
+    },
+    {
+        "jobTitle": "RPA consultant",
+        "salary": "全職",
+        "company": "PwC"
+    },
+    {
+        "jobTitle": "Bank / 資訊板塊RPA工程師",
+        "salary": "月薪40,000元全職",
+        "company": "國泰金控"
+    },
+    {
+        "jobTitle": "Sec / RPA軟體流程自動化工程師(資訊策略發展部)",
+        "salary": "月薪40,000元全職",
+        "company": "國泰金控"
+    },
+    {
+        "jobTitle": "C.顧問類-RPA/Data AI Consultant",
+        "salary": "全職",
+        "company": "PwC"
+    },
+    {
+        "jobTitle": "【ELT program】Consultant / Intern",
+        "salary": "兼職/打工",
+        "company": "PwC"
+    },
+    {
+        "jobTitle": "【審計服務】財務會計諮詢服務(RPA) - 副組長/組長/副理",
+        "salary": "",
+        "company": "EY"
+    },
+    {
+        "jobTitle": "程式開發工程師(RPA/台北)",
+        "salary": "全職",
+        "company": "SGS"
+    },
+    {
+        "jobTitle": "校園招募_2023 風險與控制服務/顧問實習生",
+        "salary": "兼職/打工",
+        "company": "PwC"
+    },
+    {
+        "jobTitle": "C.顧問類-數位科技顧問 (RPA)",
+        "salary": "全職",
+        "company": "PwC"
+    },
+    {
+        "jobTitle": "General Manager (Data, RPA & AI Total Solution)",
+        "salary": "",
+        "company": "Michael Page"
+    },
+    {
+        "jobTitle": "Bank / 作業板塊企業金融作業流程專案規劃人員",
+        "salary": "月薪40,000元全職",
+        "company": "國泰金控"
+    },
+    {
+        "jobTitle": "Bank / 作業板塊海外授信/貿融作業專案規劃人員",
+        "salary": "月薪40,000元全職",
+        "company": "國泰金控"
+    },
+    {
+        "jobTitle": "【稅務服務】稅務科技 流程自動化工具導入諮詢顧問師",
+        "salary": "",
+        "company": "EY"
+    },
+    {
+        "jobTitle": "【2023 Campus Recruitment】Taiwan_Materials Management & Risk Management",
+        "salary": "",
+        "company": "台灣積體電路製造"
+    },
+    {
+        "jobTitle": "資訊軟體開發/規劃工程師",
+        "salary": "",
+        "company": "味全公司"
+    },
+    {
+        "jobTitle": "【審計服務】財務會計諮詢服務 - 組員",
+        "salary": "",
+        "company": "EY"
+    },
+    {
+        "jobTitle": "IT資訊設備維護助理工程師",
+        "salary": "",
+        "company": "台灣積體電路製造"
+    },
+    {
+        "jobTitle": "董事長室特助",
+        "salary": "",
+        "company": "MGR"
+    },
+    {
+        "jobTitle": "Analyst",
+        "salary": "",
+        "company": "Standard Chartered"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,500 - 42,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "【審計服務】財務會計諮詢服務(資訊系統) - 經理",
+        "salary": "",
+        "company": "EY"
+    },
+    {
+        "jobTitle": "Supply Chain Logistic Management Engineer - 身心障礙人才招募",
+        "salary": "",
+        "company": "台灣積體電路製造"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,500 - 42,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,500 - 42,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "【稅務服務】稅務科技 工程師/資深工程師",
+        "salary": "",
+        "company": "EY"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪34,100 - 40,200元全職",
+        "company": "晶旺餐飲股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,000 - 37,500元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,000 - 37,500元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪30,500 - 34,000元全職",
+        "company": "晶旺餐飲股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪34,000 - 42,000元全職",
+        "company": "一鷺國際餐飲有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪37,500 - 45,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,000 - 37,500元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪34,000 - 37,500元全職",
+        "company": "一鷺國際餐飲有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪34,000 - 37,500元全職",
+        "company": "一鷺國際餐飲有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,500 - 42,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Life / 電話客服中心智能客服訓練師-台北(內勤)",
+        "salary": "月薪32,000 - 50,000元全職",
+        "company": "國泰金控"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,000 - 37,500元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪45,000 - 63,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,500 - 42,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,000 - 37,500元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,000 - 37,500元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,000 - 37,500元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪37,500 - 44,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "P&C Systems Senior Analyst",
+        "salary": "",
+        "company": "Logitech"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪42,000 - 60,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪42,000 - 60,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪42,000 - 60,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪42,000 - 60,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪42,000 - 60,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "HR Learning and Development (IT)",
+        "salary": "",
+        "company": "台灣積體電路製造"
+    },
+    {
+        "jobTitle": "人力資源自動化整合專案一年期約聘助理- 身心障礙人才招募",
+        "salary": "",
+        "company": "台灣積體電路製造"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪34,000 - 42,000元全職",
+        "company": "一鷺國際餐飲有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪42,000 - 60,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪40,000 - 45,000元全職",
+        "company": "久香食品有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪44,000 - 62,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "People Services Program Lead",
+        "salary": "",
+        "company": "Logitech"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪32,000 - 35,000元全職",
+        "company": "宅梗小食光(宅梗餐館)"
+    },
+    {
+        "jobTitle": "Data Analytics and Supply Chain Management Engineer - 身心障礙人才招募",
+        "salary": "",
+        "company": "台灣積體電路製造"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪37,500 - 44,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,500 - 42,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪40,000 - 45,000元全職",
+        "company": "芸水閣養生坊"
+    },
+    {
+        "jobTitle": "Supply Chain Logistic Engineer",
+        "salary": "",
+        "company": "台灣積體電路製造"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪26,500 - 27,500元全職",
+        "company": "運博國際股份有限公司"
+    },
+    {
+        "jobTitle": "Services Architect",
+        "salary": "",
+        "company": "NTT Ltd."
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪40,000 - 45,000元全職",
+        "company": "東震營造工程有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪45,000元全職",
+        "company": "米塔集團(米塔國際食品股份有限公司)"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,500 - 42,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "日薪2,000 - 4,000元兼職/打工",
+        "company": "好運大順交通有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪36,000 - 40,000元全職",
+        "company": "嗑串鹹酥雞"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪36,000 - 46,000元全職",
+        "company": "久香食品有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "時薪176 - 185元",
+        "company": "宅梗小食光(宅梗餐館)"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "全職",
+        "company": "依依時尚美學館"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "全職",
+        "company": "依依時尚美學館"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,000 - 36,500元全職",
+        "company": "蘇姐漢堡(四維店/世唯早餐店)"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "時薪176元",
+        "company": "薪銨企業有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,500 - 42,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "Back Office Manager",
+        "salary": "",
+        "company": "瑞星管理顧問股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "日薪1,500 - 1,600元全職",
+        "company": "勝家企業社"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,000 - 45,000元全職",
+        "company": "大漠蒙古麻辣燙(大里店)"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪33,000 - 38,000元全職",
+        "company": "米塔集團(米塔國際食品股份有限公司)"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "全職",
+        "company": "雙月厚德載物股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪30,500 - 34,000元全職",
+        "company": "晶旺餐飲股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪33,000 - 38,000元全職",
+        "company": "滷翻天滷味"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪30,500 - 34,000元全職",
+        "company": "晶旺餐飲股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪40,000 - 100,000元全職",
+        "company": "晶采夢男女時尚舒壓會館"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪28,000 - 34,000元全職",
+        "company": "山川咖喱 Yamakawa Curry 民生店(日繹商行)"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "兼職/打工",
+        "company": "好運大順交通有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪34,100 - 40,200元全職",
+        "company": "晶旺餐飲股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪32,000 - 35,000元全職",
+        "company": "明誠炒米粉-大昌店(定緯餐飲店)"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,500 - 42,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "IT Recruiter",
+        "salary": "",
+        "company": "瑞星管理顧問股份有限公司"
+    },
+    {
+        "jobTitle": "Sales Director",
+        "salary": "",
+        "company": "瑞星管理顧問股份有限公司"
+    },
+    {
+        "jobTitle": "Java developer",
+        "salary": "",
+        "company": "瑞星管理顧問股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "全職",
+        "company": "旅幸福管理顧問股份有限公司"
+    },
+    {
+        "jobTitle": "Power Automate 設計 (RPA)",
+        "salary": "月薪35,500 - 42,000元全職",
+        "company": "三澧企業股份有限公司"
+    },
+    {
+        "jobTitle": "IT系統架構師(LowCode BPM方案架構)",
+        "salary": "月薪50,000元全職",
+        "company": "華南商業銀行股份有限公司"
+    }
+]
