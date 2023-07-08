@@ -111,6 +111,7 @@ function jobPaser(jobData){
     newItem["jobTitle"]=( $(e).find(".jcs-JobTitle").text())
     newItem["salary"]=( $(e).find(".attribute_snippet").text())
     newItem["company"]=($(e).find(".companyName").text())
+    newItem["description"]=($(e).find(".companyName").text())
     dataMap.push(newItem)
     })
     // fs.writeFileSync("./inNeedScrap.json",JSON.stringify(dataMap,null,4))
